@@ -1,2 +1,4 @@
 # Hello-World
-Hello World display
+
+
+This file tries to display a text in your Magic Mirror.
