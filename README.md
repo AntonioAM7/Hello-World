@@ -2,3 +2,4 @@
 
 
 This file tries to display a text in your Magic Mirror.
+Any request?
